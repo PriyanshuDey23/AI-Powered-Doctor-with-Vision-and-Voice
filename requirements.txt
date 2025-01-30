@@ -1,0 +1,11 @@
+python-dotenv
+groq
+gradio
+speechrecognition
+gtts
+pygame
+
+
+
+
+
