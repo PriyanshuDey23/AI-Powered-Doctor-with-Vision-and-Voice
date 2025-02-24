@@ -1,5 +1,6 @@
-
 # AI Doctor with Vision and Voice
+
+![](frontend.png)
 
 ## Overview
 AI Doctor with Vision and Voice is an AI-powered medical assistant designed to analyze medical images, process patient speech, and generate professional medical responses. This project integrates speech recognition, text-to-speech synthesis, and multimodal AI analysis to provide insightful medical feedback.
